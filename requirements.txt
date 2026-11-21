@@ -1,0 +1,12 @@
+# CPU-first dependencies; versions match the implementation environment.
+streamlit==1.66.1
+PyMuPDF==2.0.0
+numpy>=2.0,<3
+pandas>=2.2,<4
+plotly>=6.0,<7
+scikit-learn==1.9.1
+faiss-cpu==1.15.1
+sentence-transformers==6.2.0
+transformers==5.20.2
+torch==2.14.1
+pytest>=8.0,<10
